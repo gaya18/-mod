@@ -1,0 +1,13 @@
+{
+  "modid": "keqing_mod",
+  "name": "keqing_mod",
+  "author_list": [
+    "lgy"
+  ],
+  "description": "keqing_mod",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "0.0.1",
+  "sts_version": "08-15-2021"
+}
